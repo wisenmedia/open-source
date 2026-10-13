@@ -2,4 +2,13 @@ body {
   background-color: black;
   font-family: Arial, Helvetica, sans-serif;
   color: #ffff;
+  height: 100vh;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+}
+.container-box {
+  padding: 50px;
 }
